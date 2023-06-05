@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459091989105",
+    "firebase_url": "https://poluicaoambiental-2d73c-default-rtdb.firebaseio.com",
+    "project_id": "poluicaoambiental-2d73c",
+    "storage_bucket": "poluicaoambiental-2d73c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459091989105:android:6bb782adb9e6c636ee41d0",
+        "android_client_info": {
+          "package_name": "com.example.poluicaoambiental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459091989105-e1tgcdhl49mlt7ipc995g711lrtuhvio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBajxg4HwTYifiQqua-hpD66iDwLyogXwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459091989105-e1tgcdhl49mlt7ipc995g711lrtuhvio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
